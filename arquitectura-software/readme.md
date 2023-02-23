@@ -46,3 +46,7 @@
 - [C# Mediator](https://www.dofactory.com/net/mediator-design-pattern)
 
 ![img](https://www.dofactory.com/img/diagrams/net/mediator.png)
+
+- [Define your naming convention](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming)
+
+![img](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/_images/ready/resource-naming.png)
